@@ -96,18 +96,6 @@ Har chapter mein yeh sections milenge:
 
 ---
 
-## 👤 Book Information
-
-- **Prepared for:** BCA Students
-- **Prepared by:** Broun Verma
-- **Semester:** 1st Semester
-- **Session:** 2026
-- **Subject:** Mathematics
-- **Course Code:** SOBCA103
-- **GitHub:** [brounverma-tech](https://github.com/brounverma-tech)
-
----
-
 <div align="center">
 
 ### 🚀 Learn the Concept. Understand the Formula. Solve with Confidence.
