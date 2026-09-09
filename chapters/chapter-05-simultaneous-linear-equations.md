@@ -99,7 +99,7 @@ $$x=\frac{\Delta_x}{\Delta},\qquad y=\frac{\Delta_y}{\Delta}.$$
 
 For the same system,
 
-$$\Delta=1,quad\Delta_x=3,quad\Delta_y=2.$$
+$$\Delta=1,\qquad \Delta_x=3,\qquad \Delta_y=2.$$
 
 Therefore $x=3$, $y=2$.
 
