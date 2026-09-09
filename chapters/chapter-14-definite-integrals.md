@@ -71,7 +71,7 @@ $$
 $$
 
 $$
-\int_a^b(f\pm g)dx=\int_a^bfdx\pm\int_a^bgdx.
+\int_a^b[f(x)\pm g(x)]dx=\int_a^bf(x)dx\pm\int_a^bg(x)dx.
 $$
 
 ## 14.5 Reflection Property
