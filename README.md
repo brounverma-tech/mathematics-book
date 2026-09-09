@@ -6,6 +6,7 @@
 
 **Zero Level se Exam Preparation tak | English + Hinglish | Solved Examples**
 
+![Category](https://img.shields.io/badge/Category-BOOKS-blue?style=for-the-badge)
 ![Course](https://img.shields.io/badge/Course-BCA-blue?style=for-the-badge)
 ![Code](https://img.shields.io/badge/Course%20Code-SOBCA103-purple?style=for-the-badge)
 ![Credits](https://img.shields.io/badge/Credits-4-orange?style=for-the-badge)
