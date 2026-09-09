@@ -88,7 +88,7 @@ $$
 $$
 
 $$
-\frac{d}{dx}(a^x)=a^x\ln a,qquad a>0.
+\frac{d}{dx}(a^x)=a^x\ln a,\qquad a>0.
 $$
 
 ### 🧮 Solved Example 2
@@ -110,7 +110,7 @@ $$
 The more general real form is
 
 $$
-\frac{d}{dx}\ln|x|=\frac1x,qquad x\ne0.
+\frac{d}{dx}\ln|x|=\frac1x,\qquad x\ne0.
 $$
 
 ### 🧮 Solved Example 3
